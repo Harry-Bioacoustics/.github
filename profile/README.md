@@ -1,4 +1,4 @@
-# GitHub Organisation Structure for Bioacoustic Monitoring Project
+# Organisation Structure for Harry-Bioacoustics
 
 ## Repository Structure
 
@@ -32,37 +32,3 @@
    - Spectrogram visualisation scripts
    - Model performance dashboards
    - Statistical analysis tools
-
----
-
-## README Template
-
-```markdown
-# Repository Name
-
-## Overview
-Brief description of the repository's purpose.
-
-## Installation & Setup
-Instructions for setting up dependencies.
-
-```bash
-# Example installation command
-pip install -r requirements.txt
-```
-
-## Usage
-Instructions on how to use the scripts or tools in the repository.
-
-```bash
-# Example usage command
-python script.py --input data.wav
-```
-
-## Contribution Guidelines
-- Fork the repository
-- Create a feature branch
-- Submit a pull request
-
-## License
-[MIT License](LICENSE)
