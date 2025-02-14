@@ -66,7 +66,3 @@ python script.py --input data.wav
 
 ## License
 [MIT License](LICENSE)
-```
-
-This structure will help keep your project organised and scalable. Let me know if you'd like any modifications!
-
